@@ -1,3 +1,4 @@
+theme: minima
 <h1 align="center">Hi 👋, I'm Bahaa Al-Juboori</h1>
 <h3 align="center">Software Engineering <Web Developer/></h3>
 
